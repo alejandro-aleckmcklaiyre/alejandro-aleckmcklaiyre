@@ -5,7 +5,7 @@ I’m Aleck Alejandro, creator of Alekx—a space where I explore creativity thr
 
 🔭 **Currently Working On:** UBNHS Online Voting System - A secure election management platform with QR code-based authentication and automated email distribution
 
-🌱 **Currently Learning:** Laravel Framework - Expanding my PHP development skills with modern MVC architecture
+🌱 **Currently Learning:** Taking the Data Science Essentials with Python Course in Cisco Networking Academy
 
 ## 📋 Professional Experience
 
