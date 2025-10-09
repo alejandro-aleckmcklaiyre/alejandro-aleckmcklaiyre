@@ -7,7 +7,19 @@ I’m Aleck Alejandro, creator of Alekx—a space where I explore creativity thr
 
 🌱 **Currently Learning:** Taking the Data Science Essentials with Python Course in Cisco Networking Academy
 
-## 📋 Professional Experience
+## 🏆 Certification
+I have earned a **Certificate in “Building a Simple Lead Gen Landing Page using System.io”** on **October 23, 2023**, which demonstrates my ability to design and build functional landing pages for lead generation.  
+📄 [**View Certificate**](https://drive.google.com/drive/folders/1fVNsBbcgftRs1Fxi6AZnlh3q9Lljn1d4)
+
+
+## 📋Projects
+
+### Web Designer | Multiple Web Applications | 2025
+- Created comprehensive design systems using **Figma**
+- Developed low-fidelity wireframes for DevHive Space social media platform
+- Contributed to high-fidelity designs for DevHive Space implementation
+- Designed FitSync application interface focusing on fitness and wellness user experience
+- **Portfolio:** [View Portfolio](https://drive.google.com/drive/folders/1PgN7IgPY84Jh2bXLnHQjgGR6cIN-IV3u)
 
 ### Technical Lead/Developer | DevHive Space Social Media Platform | 2025
 - **Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript
@@ -25,13 +37,6 @@ I’m Aleck Alejandro, creator of Alekx—a space where I explore creativity thr
 - **Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript
 - Developed multi-role medical record management system for students, faculty, and clinic staff
 - Designed comprehensive database with visit tracking, medication inventory, and reporting features
-
-### UI/UX Designer | Multiple Web Applications | 2025
-- Created comprehensive design systems using **Figma**
-- Developed low-fidelity wireframes for DevHive Space social media platform
-- Contributed to high-fidelity designs for DevHive Space implementation
-- Designed FitSync application interface focusing on fitness and wellness user experience
-- **Portfolio:** [View Figma Portfolio](https://www.figma.com/files/team/1455139623014334897/project/445477518/PORTFOLIO--ALECK-?fuid=1455139619453066625)
 
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
