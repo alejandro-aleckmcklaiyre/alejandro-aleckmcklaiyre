@@ -5,11 +5,16 @@ I’m Aleck Alejandro, creator of Alekx—a space where I explore creativity thr
 
 🔭 **Currently Working On:** UBNHS Online Voting System - A secure election management platform with QR code-based authentication and automated email distribution
 
-🌱 **Currently Learning:** Taking the Data Science Essentials with Python Course in Cisco Networking Academy
+🌱 **Currently Learning:** Tesda NCIII - Java
 
-## 🏆 Certification
-I have earned a **Certificate in “Building a Simple Lead Gen Landing Page using System.io”** on **October 23, 2023**, which demonstrates my ability to design and build functional landing pages for lead generation.  
-📄 [**View Certificate**](https://drive.google.com/drive/folders/1fVNsBbcgftRs1Fxi6AZnlh3q9Lljn1d4)
+## 🏆 Certifications
+- **Data Science Essentials with Python** – *Issued by Cisco on October 15, 2025*  
+  Demonstrates foundational knowledge in Python programming, data analysis, and data science workflows.  
+  📄 [**View Certificate**](https://drive.google.com/file/d/15j1dug5zB-mEdczqxUZHMvJ-iTlp1NqG/view?usp=sharing)
+
+- **Building a Simple Lead Gen Landing Page using System.io** – *Issued on October 23, 2023*  
+  Showcases my ability to design and build functional landing pages for lead generation.  
+  📄 [**View Certificate**](https://drive.google.com/drive/folders/1fVNsBbcgftRs1Fxi6AZnlh3q9Lljn1d4)
 
 
 ## 📋Projects
